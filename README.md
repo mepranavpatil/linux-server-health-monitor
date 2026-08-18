@@ -509,9 +509,7 @@ When any of the following occur:
 
 ---
 
-# Screenshots
 
-Add the following screenshots to the repository:
 
 ### Script Execution
 
